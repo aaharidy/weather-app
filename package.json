@@ -1,23 +1,15 @@
 {
-  "name": "weather-app",
+  "name": "web-server",
   "version": "1.0.0",
-  "description": "Weather App With Node Js",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aaharidy/weather-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aaharidy/weather-app/issues"
-  },
-  "homepage": "https://github.com/aaharidy/weather-app#readme",
   "dependencies": {
-    "postman-request": "^2.88.1-postman.30"
+    "express": "^4.17.1"
   }
 }
